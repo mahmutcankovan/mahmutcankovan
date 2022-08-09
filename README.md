@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mahmutcankovan
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning software developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me -> https://www.linkedin.com/in/mahmutcankovan
 
 <!---
 mahmutcankovan/mahmutcankovan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
